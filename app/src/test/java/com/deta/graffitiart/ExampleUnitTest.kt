@@ -1,4 +1,4 @@
-package com.example.graffitiart
+package com.deta.graffitiart
 
 import org.junit.Test
 

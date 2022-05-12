@@ -1,4 +1,4 @@
-package com.example.graffitiart
+package com.deta.graffitiart
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
